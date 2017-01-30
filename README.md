@@ -1,5 +1,7 @@
 # Ember Data Fixture Adapter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/martinic/ember-data-fixture-adapter.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/emberjs/ember-data-fixture-adapter.svg)](https://travis-ci.org/emberjs/ember-data-fixture-adapter)
 
 This addon contains the FixtureAdapter from Ember Data. The
